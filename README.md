@@ -1,4 +1,4 @@
 # lab2web
 
 
-![image.png]( {ss1} )
+![image.png]( {screenshot/ss1.png} )
